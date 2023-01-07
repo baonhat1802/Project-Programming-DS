@@ -1,4 +1,6 @@
 .ipynb_checkpoints 
 *.zip
+
 test*
+!test_model.csv 
 *.test
